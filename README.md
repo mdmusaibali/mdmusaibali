@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mdmusaibali
 - 👀 I’m interested in learning new stuff everyday
-- 🌱 I’m currently learning mySQL
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Front End Development
 - 📫 You can get in touch with me at mdmusaibali2001@gmail.com
 
