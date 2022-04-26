@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mdmusaibali
 - 👀 I’m interested in learning new stuff everyday
-- 🌱 I’m currently learning SASS
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Front End Development
 - 📫 You can get in touch with me at mdmusaibali@gmail.com
 
