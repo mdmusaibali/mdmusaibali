@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohammed Musaib Ali
 ====================================
 
-Frontend Developer
+Aspiring Full Stack Developer
 ------------------
 
 A developer with 'never giving up' attitude who is confident about his skills. Hands on experience working with HTML, CSS, SASS, MySQL and JavaScript (check out my portfolio to know more) and familiarity with Node js. Currently learning React js after which i plan to learn Typescript, Node js and MongoDB.
