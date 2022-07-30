@@ -4,12 +4,12 @@ Hi 👋 My name is Mohammed Musaib Ali
 Aspiring Full Stack Developer
 ------------------
 
-A developer with 'never giving up' attitude who is confident about his skills. Hands on experience working with HTML, CSS, SASS, MySQL, JavaScript and React.js (check out my portfolio to know more) and familiarity with Node js. Currently learning TypeScript after which i plan to learn Node js and MongoDB.
+A developer with 'never giving up' attitude who is confident about his skills. Hands on experience working with HTML, CSS, SASS, MySQL, JavaScript, Typescript and React.js and familiarity with Python. Currently learning Node js.
 
 * 🌍  I'm based in Kalaburagi, India
 * 🖥️  See my portfolio at [My portfolio](http://mdmusaibali.com)
 * ✉️  You can contact me at [mdmusaibali@gmail.com](mailto:mdmusaibali@gmail.com )
-* 🧠  I'm learning React.js
+* 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on Frontend Development
 
 ### Skills
