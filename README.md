@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Hospaid.<br>👯 I’m looking to collaborate on full stack development.<br>🌱 I’m currently learning Docker and Kubernetes.<br>💬 Ask me about anything.
+🔭 I’m currently working on Douga, a fun screen recorder.<br>👯 I’m looking to collaborate on full stack development.<br>🌱 I’m currently learning Electron.<br>💬 Ask me about anything.
 
 
 ## 🌐 Socials:
